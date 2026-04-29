@@ -88,3 +88,38 @@ python app.py
 ### Open in Browser
 
 http://127.0.0.1:5000  
+
+
+
+
+
+
+
+
+
+---
+
+## 📊 Input Features
+
+| Feature | Description |
+|--------|------------|
+| G1 | First internal exam (0–20) |
+| G2 | Second internal exam (0–20) |
+| Study Time | Daily study duration |
+| Absences | Number of missed classes |
+| Failures | Past failures |
+| Sleep Hours | Daily sleep time |
+| Social Media | Usage per day |
+| Medu | Mother education level |
+| Fedu | Father education level |
+| Famrel | Family relationship (1–5) |
+| Internet | Internet access (Yes/No) |
+| Higher | Interest in higher education |
+
+---
+
+## 🎯 Output
+
+- Predicted Final Score (G3) out of 100
+
+
