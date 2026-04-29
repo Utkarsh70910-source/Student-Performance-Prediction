@@ -6,7 +6,7 @@ A Machine Learning based web application that predicts a student's final exam sc
 
 ## 🚀 Features
 
-- Predict final score (G3) out of 100
+- Predict final score (G3) out of 20
 - Uses Machine Learning models
 - Based on student study habits and academic data
 - Simple and user-friendly web interface
