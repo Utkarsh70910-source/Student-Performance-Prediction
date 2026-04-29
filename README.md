@@ -109,7 +109,6 @@ http://127.0.0.1:5000
 | Absences | Number of missed classes |
 | Failures | Past failures |
 | Sleep Hours | Daily sleep time |
-| Social Media | Usage per day |
 | Medu | Mother education level |
 | Fedu | Father education level |
 | Famrel | Family relationship (1–5) |
@@ -120,6 +119,6 @@ http://127.0.0.1:5000
 
 ## 🎯 Output
 
-- Predicted Final Score (G3) out of 100
+- Predicted Final Score (G3) out of 20
 
 
